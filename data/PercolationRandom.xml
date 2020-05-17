@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Simulation">
+  <title>Percolation</title>
+  <author>LG</author>
+  <width>50</width>
+  <height>50</height>
+  <random>true</random>
+  <shape>Rectangle</shape>
+<initialConfig>0 0 0 0 2 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 0 1 1 1
+0 0 0 1 0 1 0 0 0 0
+0 0 1 1 0 1 1 0 0 0
+0 0 0 1 0 1 0 0 0 0
+0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0</initialConfig>
+</data>

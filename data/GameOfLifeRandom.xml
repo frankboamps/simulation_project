@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Simulation">
+  <title>Game of Life</title>
+  <author>Michelle Tai</author>
+  <width>100</width>
+  <height>100</height>
+  <random>true</random>
+  <shape>Rectangle</shape>
+<initialConfig>0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0
+0 0 0 1 0 1 0 0 0 0
+0 0 1 1 0 1 1 0 0 0
+0 0 0 1 0 1 0 0 0 0
+0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0</initialConfig>
+
+</data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Simulation">
+  <title>WaTor</title>
+  <author>Michelle Tai</author>
+  <width>10</width>
+  <height>10</height>
+  <random>false</random>
+  <shape>Rectangle</shape>
+<initialConfig>4 4 4 4 4 1 4 4 4 4
+4 4 4 4 4 4 4 4 4 4
+4 4 4 4 4 4 4 4 4 4
+4 5 4 4 4 4 4 4 4 4
+4 4 4 4 4 4 4 4 5 4
+4 4 4 4 5 4 4 4 5 4
+4 4 4 4 4 4 4 4 5 4
+4 4 1 4 4 4 4 5 1 5
+4 4 4 4 4 1 4 4 5 4
+4 4 4 4 4 4 4 4 4 4</initialConfig>
+</data>

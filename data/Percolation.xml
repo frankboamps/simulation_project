@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Simulation">
+  <title>Percolation</title>
+  <author>Michelle Tai</author>
+  <width>10</width>
+  <height>10</height>
+  <random>false</random>
+  <shape>Rectangle</shape>
+<initialConfig>0 0 0 0 2 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 0 1 1 1
+0 0 0 1 0 1 0 0 0 0
+0 0 1 1 0 1 1 0 0 0
+0 0 0 1 0 1 0 0 0 0
+0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0</initialConfig>
+</data>

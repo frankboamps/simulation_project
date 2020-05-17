@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data media="Simulation">
+  <title>Segregation</title>
+  <author>Michelle Tai</author>
+  <width>10</width>
+  <height>10</height>
+  <random>false</random>
+  <shape>Rectangle</shape>
+<initialConfig>3 3 3 3 2 4 3 3 4 2
+3 3 4 4 3 4 3 3 3 2
+4 3 3 3 3 3 3 3 3 4
+2 2 2 2 2 2 3 2 2 4
+3 3 4 2 3 2 3 3 3 4
+4 3 2 2 3 2 2 3 3 4
+3 3 3 2 3 2 3 4 3 4
+3 4 3 3 2 3 3 3 3 4
+3 3 4 3 4 3 3 3 3 4
+3 3 3 3 3 4 3 3 3 4</initialConfig>
+</data>
